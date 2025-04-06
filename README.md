@@ -25,7 +25,7 @@ you can start from this module to integrate you debloating settings, in order to
 ### and then, what?
 
 the module contains:
-- MiXplorer v6.63.1
+- MiXplorer v6.68.4
 - MiXplorer addon Pdf v1.13
 - MiXplorer addon SMB v2.1
 - MiXplorer addon Image v2.10
