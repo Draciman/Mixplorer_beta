@@ -12,7 +12,7 @@ echo    - MiXplorer...
 if [ "$API" -lt "30" ] ; then
   pm install --dont-kill "$tmp/v-29/MiXplorer_v6.64.3-API29_B23090720.apk" > /dev/null 2>&1
 else
-  pm install --dont-kill "$tmp/v-30/MiXplorer_v6.64.3_B23090710.apk" > /dev/null 2>&1
+  pm install --dont-kill "$tmp/v-30/MiXplorer_v6.68.4-Beta_B24112312-arm64.apk" > /dev/null 2>&1
 fi
 sleep 1
 
