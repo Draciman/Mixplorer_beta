@@ -9,7 +9,7 @@ names=$tmp/MiX-Names
 
 echo Installing... 
 echo    - MiXplorer...
-if [ "$API" -lt "30" ] ; then
+if [ "$API" -lt "38" ] ; then
   pm install --dont-kill "$tmp/v-29/MiXplorer_v6.68.4-API29_B24112330.apk" > /dev/null 2>&1
 else
   pm install --dont-kill "$tmp/v-30/MiXplorer_v6.68.4_B24112322-arm64.apk" > /dev/null 2>&1
